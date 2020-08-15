@@ -7,10 +7,7 @@
 <b>Project done under the guidance of:</b> Dlithe</br>
 <b>Done by:</b> Shruti A P (1AT17CS082)</br>
 <b>Movies_Recommendation_System using Machine Learning</b></br>
-            This recommender offers generalized recommendation based on movie ratings, movie popularity, genre. This 
- model uses TMDB ratings to come up with Top movie list and this model also gives the personalized recommendations
- based on the user ratings. In this we have Popularity and rating based recommendor, content based recommender,
- Metadata based recommender, Description based recommender and  user's personal interest movie recommender.</br>
+            This recommender offers generalized recommendation based on movie ratings, movie popularity, genre. This model uses TMDB ratings to come up with Top movie list and this model also gives the personalized recommendations based on the user ratings. In this we have Popularity and rating based recommendor, content based recommender, Metadata based recommender, Description based recommender and  user's personal interest movie recommender.</br>
 
 <b>Algorithms used :</b></br>
 
@@ -20,8 +17,7 @@ Cosine Similarity :  The Cosine Similarity is used to calculate a numeric quanti
 <b>The types of Recommender used :</b> </br>
 
 1. Unwatchted Movie Recommender : This model gives the recommendation based on reviews.</br>
-2.Simple Movie Recommender : This model gives the recommends the movies that are more popular and more critically acclaimed.
-                             This model does not give personalized recommendations based on the user.</br>
+2.Simple Movie Recommender : This model gives the recommends the movies that are more popular and more critically acclaimed.This model does not give personalized recommendations based on the user.</br>
 3.Metadata based  Movie Recommender : This model uses the crew information of the movie data and the keywords to recommend the movie.</br>
 4.Content Based Recommender :  This model gives the recommendation based on Movie Overviews, Taglines and description.</br>
 5.User rating based Movie Recommender :  This model gives the personalized recommendations based on the user ratings.</br>
