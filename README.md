@@ -15,8 +15,7 @@ Pearson Similarity algorithm :  The Pearson Similarity procedure computes simila
 Cosine Similarity :  The Cosine Similarity is used to calculate a numeric quantity that denotes the similarity between two movies.</br>
 
 <b>The types of Recommender used :</b> </br>
-
-1. Unwatchted Movie Recommender : This model gives the recommendation based on reviews.</br>
+1.Unwatchted Movie Recommender : This model gives the recommendation based on reviews.</br>
 2.Simple Movie Recommender : This model gives the recommends the movies that are more popular and more critically acclaimed.This model does not give personalized recommendations based on the user.</br>
 3.Metadata based  Movie Recommender : This model uses the crew information of the movie data and the keywords to recommend the movie.</br>
 4.Content Based Recommender :  This model gives the recommendation based on Movie Overviews, Taglines and description.</br>
