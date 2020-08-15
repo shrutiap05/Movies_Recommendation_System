@@ -19,9 +19,9 @@ Cosine Similarity :  The Cosine Similarity is used to calculate a numeric quanti
 
 <b>The types of Recommender used :</b> </br>
 
-1. Unwatchted Movie Recommender : This model gives the recommendation based on reviews.
+1. Unwatchted Movie Recommender : This model gives the recommendation based on reviews.</br>
 2.Simple Movie Recommender : This model gives the recommends the movies that are more popular and more critically acclaimed.
-                             This model does not give personalized recommendations based on the user.
-3.Metadata based  Movie Recommender : This model uses the crew information of the movie data and the keywords to recommend the movie.
-4.Content Based Recommender :  This model gives the recommendation based on Movie Overviews, Taglines and description.
-5.User rating based Movie Recommender :  This model gives the personalized recommendations based on the user ratings.
+                             This model does not give personalized recommendations based on the user.</br>
+3.Metadata based  Movie Recommender : This model uses the crew information of the movie data and the keywords to recommend the movie.</br>
+4.Content Based Recommender :  This model gives the recommendation based on Movie Overviews, Taglines and description.</br>
+5.User rating based Movie Recommender :  This model gives the personalized recommendations based on the user ratings.</br>
