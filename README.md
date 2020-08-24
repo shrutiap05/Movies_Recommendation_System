@@ -5,7 +5,7 @@
 <b>Reference:</b> Dlithe</br>
 <b>Website:</b> www.dlithe.com</br>
 <b>Project done under the guidance of:</b> Dlithe</br>
-<b>Done by:</b> Shruti A P (1AT17CS082)</br>
+<b>Done by:</b> Shruti A P</br>
 <b>Movies_Recommendation_System using Machine Learning</b></br>
             This recommender offers generalized recommendation based on movie ratings, movie popularity, genre. This model uses TMDB ratings to come up with Top movie list and this model also gives the personalized recommendations based on the user ratings. In this we have Popularity and rating based recommendor, content based recommender, Metadata based recommender, Description based recommender and  user's personal interest movie recommender.</br>
 
